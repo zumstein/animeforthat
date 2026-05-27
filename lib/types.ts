@@ -20,11 +20,11 @@ export interface Anime {
 }
 
 export interface QuizAnswers {
-  genre:       'action' | 'emotional' | 'mystery' | 'cozy'
-  tone:        'dark' | 'edgy' | 'hopeful' | 'light'
-  pace:        'fast' | 'slow' | 'balanced' | 'episodic'
-  protagonist: 'smart' | 'power' | 'broken' | 'ordinary'
-  romance:     'heavy' | 'light' | 'none' | 'any'
-  length?:     'movie' | 'short' | 'season' | 'long'
+  genre:       string
+  tone:        string
+  pace:        string
+  protagonist: string
+  romance:     string
+  length?:     string
   platforms?:  string[]
 }
