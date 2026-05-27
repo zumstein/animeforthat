@@ -1,0 +1,3142 @@
+[
+  {
+    "id": "steinsgate",
+    "title": "Steins;Gate",
+    "slug": "steinsgate",
+    "emoji": "🕰️",
+    "tagline": "Time travel, tragedy, and a lab coat that will haunt you.",
+    "description": "Rintaro Okabe accidentally invents a way to send messages into the past. What starts as a fun experiment spirals into a nightmare of consequence, loss, and impossible choices. The slow first half exists to make the second half absolutely devastating. Expect to lose sleep.",
+    "genre": "Sci-fi / Thriller",
+    "episodes": 24,
+    "tags": [
+      "Mind-bending",
+      "Emotional gut-punch",
+      "Completed"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#c8a96e",
+    "matchGenre": "mystery",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "mushishi",
+    "title": "Mushishi",
+    "slug": "mushishi",
+    "emoji": "🌿",
+    "tagline": "Slow, quiet, and will rewire what you find beautiful.",
+    "description": "Ginko wanders Japan as a Mushishi — an expert on Mushi, primordial life forms invisible to most. Each episode is a self-contained folk tale. No villain, no tournament arc. Just quiet wonder and the occasional gut-punch of sadness.",
+    "genre": "Supernatural / Seinen",
+    "episodes": 26,
+    "tags": [
+      "Meditative",
+      "Folklore",
+      "Episodic gem"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#7eb89a",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "hxh",
+    "title": "Hunter x Hunter (2011)",
+    "slug": "hunter-x-hunter-2011",
+    "emoji": "⚡",
+    "tagline": "Starts as shonen. Ends as a philosophical gut-shot.",
+    "description": "Gon's search for his absent father starts bright and adventurous — then the Chimera Ant arc dismantles everything you thought this show was. Strategically complex, emotionally brutal, and home to one of anime's most fascinating villains.",
+    "genre": "Shonen / Adventure",
+    "episodes": 148,
+    "tags": [
+      "Epic scale",
+      "Emotional damage",
+      "Strategy battles"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#e8844a",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "fmab",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "slug": "fullmetal-alchemist-brotherhood",
+    "emoji": "⚗️",
+    "tagline": "The benchmark. Runs on grief and found family.",
+    "description": "Two brothers pay a horrific price for forbidden alchemy and spend 64 episodes trying to reclaim what was lost. A masterclass in plotting, character work, and thematic payoff.",
+    "genre": "Adventure / Fantasy",
+    "episodes": 64,
+    "tags": [
+      "Perfect pacing",
+      "Brotherhood bonds",
+      "Completed"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#d4a017",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "vinland",
+    "title": "Vinland Saga",
+    "slug": "vinland-saga",
+    "emoji": "🪓",
+    "tagline": "A viking revenge story that quietly becomes about peace.",
+    "description": "Thorfinn grows up watching his father die and spends years sharpening his hatred. Then season two asks whether the boy forged by violence can choose something else. One of the most morally serious anime in recent memory.",
+    "genre": "Historical / Drama",
+    "episodes": 48,
+    "tags": [
+      "Mature themes",
+      "War & redemption",
+      "Character study"
+    ],
+    "streaming": [
+      "netflix",
+      "prime"
+    ],
+    "color": "#8b6f8a",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "kaguya",
+    "title": "Kaguya-sama: Love is War",
+    "slug": "kaguya-sama-love-is-war",
+    "emoji": "❤️‍🔥",
+    "tagline": "Two geniuses refuse to confess. Absolute chaos ensues.",
+    "description": "Two brilliant student council officers are in love and refuse to admit it — so they wage psychological warfare instead. Razor-sharp writing, perfect comedic timing, and genuinely earned emotional beats by season three.",
+    "genre": "Romantic Comedy",
+    "episodes": 37,
+    "tags": [
+      "Hilarious",
+      "Surprisingly deep",
+      "Romance done right"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e85d6b",
+    "matchGenre": "emotional",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "smart",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "madoka",
+    "title": "Puella Magi Madoka Magica",
+    "slug": "puella-magi-madoka-magica",
+    "emoji": "🎀",
+    "tagline": "You think it's cute. It is not cute.",
+    "description": "A girl is offered a wish in exchange for becoming a magical girl. The show looks cheerful. It is not. A surgical deconstruction of the genre that turns pastel aesthetics into something genuinely haunting by episode three.",
+    "genre": "Dark Fantasy / Psychological",
+    "episodes": 12,
+    "tags": [
+      "Subversive",
+      "12 episodes of grief",
+      "Rewatchable"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#b06fcc",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "nichijou",
+    "title": "Nichijou",
+    "slug": "nichijou",
+    "emoji": "🦌",
+    "tagline": "The most unhinged comedy ever animated. Perfectly mundane.",
+    "description": "Three high school girls navigate ordinary life — except one friend is a robot, her inventor is an eight-year-old, and the principal wrestles deer. Animation quality that puts films to shame.",
+    "genre": "Slice of Life / Comedy",
+    "episodes": 26,
+    "tags": [
+      "Absurdist",
+      "Comfort watch",
+      "Animation showcase"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#5fb8d4",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "any"
+  },
+  {
+    "id": "aot",
+    "title": "Attack on Titan",
+    "slug": "attack-on-titan",
+    "emoji": "🏔️",
+    "tagline": "Humanity in a cage. The cage has teeth.",
+    "description": "What begins as humans vs. giant monsters becomes one of anime's most politically complex narratives. Each season recontextualizes everything before it.",
+    "genre": "Dark Fantasy / Action",
+    "episodes": 87,
+    "tags": [
+      "Politically complex",
+      "Morally grey",
+      "Game-changing twists"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#8B0000",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "demonslayer",
+    "title": "Demon Slayer",
+    "slug": "demon-slayer",
+    "emoji": "🌊",
+    "tagline": "Stunning animation. Brutal heart. Family above everything.",
+    "description": "Tanjiro's family is slaughtered by a demon and his sister is turned into one. He becomes a demon slayer to find a cure. Ufotable's animation sets a bar that most anime can only stare at from the ground.",
+    "genre": "Action / Fantasy",
+    "episodes": 55,
+    "tags": [
+      "Visual masterpiece",
+      "Emotional siblings",
+      "Clean shonen"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#1a6b3a",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "jjk",
+    "title": "Jujutsu Kaisen",
+    "slug": "jujutsu-kaisen",
+    "emoji": "👁️",
+    "tagline": "Curses, chaos, and the best fight animation of the decade.",
+    "description": "High schooler Yuji Itadori swallows a cursed finger and becomes host to the most powerful curse in existence. JJK is a masterclass in kinetic animation and ensemble character work.",
+    "genre": "Action / Supernatural",
+    "episodes": 47,
+    "tags": [
+      "Best fight animation",
+      "Ensemble cast",
+      "Constantly escalating"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4a2080",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "chainsawman",
+    "title": "Chainsaw Man",
+    "slug": "chainsaw-man",
+    "emoji": "🔗",
+    "tagline": "Chaotic, bloody, and somehow extremely funny.",
+    "description": "Denji merges with his chainsaw devil dog to become Chainsaw Man. Violent, irreverent, and completely uninterested in being a normal shonen. One of the most stylistically distinctive anime in years.",
+    "genre": "Action / Dark Comedy",
+    "episodes": 12,
+    "tags": [
+      "Unhinged energy",
+      "Dark comedy",
+      "Stylistically distinct"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#cc2233",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "berserk",
+    "title": "Berserk (1997)",
+    "slug": "berserk-1997",
+    "emoji": "⚔️",
+    "tagline": "Medieval brutality and the friendship that breaks your heart.",
+    "description": "Guts joins the Band of the Hawk and forms an unlikely bond with the brilliant Griffith. Berserk is the gold standard for dark fantasy — brutal, beautiful, and one of the most devastating endings in all of fiction.",
+    "genre": "Dark Fantasy / Action",
+    "episodes": 25,
+    "tags": [
+      "The OG dark fantasy",
+      "Devastating",
+      "Essential watching"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#2a1a0a",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "cowboybebop",
+    "title": "Cowboy Bebop",
+    "slug": "cowboy-bebop",
+    "emoji": "🎺",
+    "tagline": "Jazz, bounty hunters, and the loneliest show ever made.",
+    "description": "A crew of misfit bounty hunters drifts through a colonized solar system chasing small-time crooks and their own pasts. Effortlessly cool and quietly heartbreaking.",
+    "genre": "Sci-fi / Neo-noir",
+    "episodes": 26,
+    "tags": [
+      "Timeless",
+      "Jazz-infused",
+      "Iconic ending"
+    ],
+    "streaming": [
+      "netflix",
+      "crunchyroll"
+    ],
+    "color": "#c8841a",
+    "matchGenre": "mystery",
+    "matchTone": "edgy",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "trigun",
+    "title": "Trigun",
+    "slug": "trigun",
+    "emoji": "🌵",
+    "tagline": "The most dangerous man alive just wants to plant flowers.",
+    "description": "Vash the Stampede has a 60 billion bounty on his head and leaves a trail of destruction everywhere — despite being a pacifist who refuses to kill. Equal parts comedy and tragedy.",
+    "genre": "Sci-fi / Western",
+    "episodes": 26,
+    "tags": [
+      "Hidden depth",
+      "Pacifist hero",
+      "Classic"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#d4a040",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "nge",
+    "title": "Neon Genesis Evangelion",
+    "slug": "neon-genesis-evangelion",
+    "emoji": "🔴",
+    "tagline": "Giant robots as a metaphor for depression. It works.",
+    "description": "Teenager Shinji Ikari is forced to pilot a giant mech to fight Angels threatening humanity. The real enemy is inside his head. NGE dismantled the mecha genre and rebuilt it as psychological horror.",
+    "genre": "Mecha / Psychological",
+    "episodes": 26,
+    "tags": [
+      "Most influential ever",
+      "Psychological horror",
+      "Dense symbolism"
+    ],
+    "streaming": [
+      "netflix"
+    ],
+    "color": "#6a3fa0",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "frieren",
+    "title": "Frieren: Beyond Journey's End",
+    "slug": "frieren-beyond-journeys-end",
+    "emoji": "⭐",
+    "tagline": "An elf who outlives everyone she loves, slowly learning to grieve.",
+    "description": "After a ten-year quest to defeat the Demon King, the hero's party goes home. Frieren watches her companions age and die while she barely changes. Quietly devastating.",
+    "genre": "Fantasy / Drama",
+    "episodes": 28,
+    "tags": [
+      "Emotional gut-punch",
+      "Quiet masterpiece",
+      "2023 best"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#7ab0d4",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "onepiece",
+    "title": "One Piece",
+    "slug": "one-piece",
+    "emoji": "🏴‍☠️",
+    "tagline": "The longest found family story ever told.",
+    "description": "Monkey D. Luffy sets out to become King of the Pirates and gather a crew along the way. Few anime match the emotional payoff of a fully built One Piece arc.",
+    "genre": "Shonen / Adventure",
+    "episodes": 1000,
+    "tags": [
+      "Found family",
+      "Epic scale",
+      "Long-haul reward"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#e87820",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "power",
+    "matchRomance": "none"
+  },
+  {
+    "id": "naruto",
+    "title": "Naruto",
+    "slug": "naruto",
+    "emoji": "🍥",
+    "tagline": "An outcast who refused to give up until the world noticed him.",
+    "description": "Naruto Uzumaki is shunned by his village for housing the demon fox. He wants to be Hokage. The emotional core — belonging, recognition, forgiveness — hits harder than almost anything else in shonen.",
+    "genre": "Shonen / Adventure",
+    "episodes": 220,
+    "tags": [
+      "Emotional core",
+      "Iconic soundtrack",
+      "Skip the fillers"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#e85a00",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "power",
+    "matchRomance": "light"
+  },
+  {
+    "id": "sololeveling",
+    "title": "Solo Leveling",
+    "slug": "solo-leveling",
+    "emoji": "⬆️",
+    "tagline": "The weakest hunter becomes something the world has never seen.",
+    "description": "Sung Jin-Woo is the weakest hunter in a world where portals to monster-filled dungeons appear. Then something changes. Solo Leveling is pure power fantasy done right.",
+    "genre": "Action / Fantasy",
+    "episodes": 24,
+    "tags": [
+      "Power fantasy",
+      "Insane progression",
+      "Satisfying"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4040c0",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "deathnote",
+    "title": "Death Note",
+    "slug": "death-note",
+    "emoji": "📓",
+    "tagline": "A notebook that kills. Two geniuses. One cat-and-mouse game.",
+    "description": "Light Yagami finds a notebook that kills anyone whose name is written in it and decides to use it to create a utopia. The detective L is the only one who can stop him.",
+    "genre": "Psychological Thriller",
+    "episodes": 37,
+    "tags": [
+      "Cat-and-mouse perfection",
+      "Morally complex",
+      "First half masterpiece"
+    ],
+    "streaming": [
+      "netflix",
+      "crunchyroll"
+    ],
+    "color": "#1a1a2e",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "codegeass",
+    "title": "Code Geass",
+    "slug": "code-geass",
+    "emoji": "♟️",
+    "tagline": "Chess pieces are people. The board is a country.",
+    "description": "Exiled prince Lelouch acquires the power to make anyone obey a single command and uses it to wage war against the empire that destroyed his family.",
+    "genre": "Mecha / Political",
+    "episodes": 50,
+    "tags": [
+      "Mastermind protagonist",
+      "Political intrigue",
+      "Iconic ending"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#8b0050",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "yourlieinapril",
+    "title": "Your Lie in April",
+    "slug": "your-lie-in-april",
+    "emoji": "🎹",
+    "tagline": "A piano. A violinist. A lie. A lot of crying.",
+    "description": "A piano prodigy who can no longer hear his own playing meets a free-spirited violinist who forces him back onto the stage. Breathtakingly beautiful while it destroys you.",
+    "genre": "Romance / Drama",
+    "episodes": 22,
+    "tags": [
+      "Beautiful and devastating",
+      "Musical",
+      "Cry warning"
+    ],
+    "streaming": [
+      "netflix",
+      "crunchyroll"
+    ],
+    "color": "#e87090",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "anohana",
+    "title": "AnoHana",
+    "slug": "anohana",
+    "emoji": "🌸",
+    "tagline": "A childhood friend who never grew up, and five people who could not move on.",
+    "description": "The ghost of a childhood friend appears to a shut-in teenager who must help her fulfill her dying wish. A grief story wrapped in supernatural warmth — 11 episodes that will absolutely wreck you.",
+    "genre": "Supernatural / Drama",
+    "episodes": 11,
+    "tags": [
+      "11-episode gut punch",
+      "Childhood grief",
+      "Cry warning"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#90c8a0",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "violet",
+    "title": "Violet Evergarden",
+    "slug": "violet-evergarden",
+    "emoji": "✉️",
+    "tagline": "A soldier who does not understand emotion, learning to write letters.",
+    "description": "Violet Evergarden was a child soldier who lost her arms in war. Now she works as a letter writer for those who cannot find words. Kyoto Animation at its absolute peak.",
+    "genre": "Drama / Fantasy",
+    "episodes": 13,
+    "tags": [
+      "KyoAni masterpiece",
+      "Episodic tearjerker",
+      "Beautiful animation"
+    ],
+    "streaming": [
+      "netflix"
+    ],
+    "color": "#6090d8",
+    "matchGenre": "emotional",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "clannadafter",
+    "title": "Clannad: After Story",
+    "slug": "clannad-after-story",
+    "emoji": "🌻",
+    "tagline": "They warned you. You did not listen.",
+    "description": "After Story is the second half of Clannad and the one that counts — a portrait of marriage, parenthood, loss, and the devastating weight of ordinary life.",
+    "genre": "Romance / Drama",
+    "episodes": 24,
+    "tags": [
+      "Emotional devastation",
+      "Parenthood themes",
+      "Legendary ending"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#d4a8c8",
+    "matchGenre": "emotional",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "rezero",
+    "title": "Re:Zero",
+    "slug": "rezero",
+    "emoji": "💀",
+    "tagline": "He dies. He resets. He suffers again. He keeps going.",
+    "description": "Subaru is transported to a fantasy world and discovers he respawns after death — but no one else remembers. A psychological endurance test disguised as an isekai.",
+    "genre": "Isekai / Psychological",
+    "episodes": 50,
+    "tags": [
+      "Subverts isekai",
+      "Psychological intensity",
+      "Massive payoff"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4040a0",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "overlord",
+    "title": "Overlord",
+    "slug": "overlord",
+    "emoji": "💀",
+    "tagline": "The villain protagonist. The fun kind.",
+    "description": "A gamer is trapped in his online RPG when the servers shut down — now fully in the body of his max-level skeletal overlord. He builds an empire. Power fantasy with a genuinely unsettling edge.",
+    "genre": "Isekai / Dark Fantasy",
+    "episodes": 52,
+    "tags": [
+      "Villain protagonist",
+      "Power fantasy",
+      "World-building"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#2a2a4a",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "konosuba",
+    "title": "KonoSuba",
+    "slug": "konosuba",
+    "emoji": "💥",
+    "tagline": "The most useless party in any fantasy world. Somehow it works.",
+    "description": "Kazuma is reincarnated in a fantasy world with a goddess who is only good at being useless, an explosion-obsessed mage, and a masochist crusader. The funniest anime of the last decade.",
+    "genre": "Isekai / Comedy",
+    "episodes": 22,
+    "tags": [
+      "Hilarious",
+      "Isekai parody",
+      "Ensemble comedy"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#5090e0",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "any"
+  },
+  {
+    "id": "shieldhero",
+    "title": "The Rising of the Shield Hero",
+    "slug": "the-rising-of-the-shield-hero",
+    "emoji": "🛡️",
+    "tagline": "Betrayed, enslaved, and still not giving up.",
+    "description": "Naofumi is summoned as the Shield Hero and immediately framed for a crime he did not commit. He rebuilds from nothing. Shield Hero scratches the underdog itch with unusual ferocity.",
+    "genre": "Isekai / Action",
+    "episodes": 50,
+    "tags": [
+      "Underdog story",
+      "Betrayal fuel",
+      "Satisfying progression"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#8a6020",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "mha",
+    "title": "My Hero Academia",
+    "slug": "my-hero-academia",
+    "emoji": "💪",
+    "tagline": "A boy born without power in a world of superheroes.",
+    "description": "Izuku Midoriya is born Quirkless in a world where 80% of people have superpowers. MHA has the cleanest shonen fundamentals of its generation — earnest, emotionally intelligent, full of great characters.",
+    "genre": "Shonen / Superhero",
+    "episodes": 138,
+    "tags": [
+      "Earnest shonen",
+      "Superhero energy",
+      "Great ensemble"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#009900",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "toradora",
+    "title": "Toradora!",
+    "slug": "toradora",
+    "emoji": "🐉",
+    "tagline": "Two people who help each other fall for the wrong person.",
+    "description": "Ryuji and Taiga form an unlikely alliance to help each other pursue their crushes. Toradora is the benchmark romantic comedy — you know where it's going and it still completely gets you.",
+    "genre": "Romantic Comedy / Drama",
+    "episodes": 25,
+    "tags": [
+      "Benchmark romance",
+      "Tsundere done right",
+      "Perfect ending"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#e85050",
+    "matchGenre": "emotional",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "spyxfamily",
+    "title": "Spy x Family",
+    "slug": "spy-x-family",
+    "emoji": "🕵️",
+    "tagline": "A spy, an assassin, and a telepathic child pretend to be a family.",
+    "description": "Loid Forger is a spy who needs a fake family for a mission. He adopts a child who can read minds and marries an assassin. Pure wholesome fun with stylish action.",
+    "genre": "Action / Comedy",
+    "episodes": 37,
+    "tags": [
+      "Found family",
+      "Wholesome action",
+      "Anya is perfect"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e8c040",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "bocchi",
+    "title": "Bocchi the Rock!",
+    "slug": "bocchi-the-rock",
+    "emoji": "🎸",
+    "tagline": "Severe social anxiety. A guitar. Surprisingly relatable.",
+    "description": "Hitori Gotoh is crushing social anxiety made flesh who discovers that playing guitar in a band might be the thing that saves her. Actually understands anxiety rather than mocking it.",
+    "genre": "Slice of Life / Music",
+    "episodes": 12,
+    "tags": [
+      "Anxiety representation",
+      "Music is great",
+      "Comfort anime"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e060a0",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "bleachtybw",
+    "title": "Bleach: Thousand-Year Blood War",
+    "slug": "bleach-thousand-year-blood-war",
+    "emoji": "⚫",
+    "tagline": "The arc Bleach always deserved, finally animated perfectly.",
+    "description": "The final arc of Bleach — Soul Society invaded by the Quincy King — given the animation budget it always deserved.",
+    "genre": "Shonen / Action",
+    "episodes": 52,
+    "tags": [
+      "Redemption arc",
+      "Best villain designs",
+      "TYBW is stunning"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#b0a060",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "power",
+    "matchRomance": "light"
+  },
+  {
+    "id": "erased",
+    "title": "ERASED",
+    "slug": "erased",
+    "emoji": "🔵",
+    "tagline": "A man sent back in time to save a child he could not protect.",
+    "description": "Satoru is sent back 18 years to prevent a series of childhood kidnappings. A tense, beautifully paced thriller with a mystery that actually pays off.",
+    "genre": "Mystery / Thriller",
+    "episodes": 12,
+    "tags": [
+      "12-episode thriller",
+      "Mystery payoff",
+      "Time-travel done right"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#2060a0",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "parasyte",
+    "title": "Parasyte: the maxim",
+    "slug": "parasyte-the-maxim",
+    "emoji": "🧠",
+    "tagline": "An alien lives in his hand. They have to learn to coexist.",
+    "description": "Shinichi Izumi's right hand is taken over by an alien parasite that fails to reach his brain. Body horror and philosophical questions about what makes something human.",
+    "genre": "Sci-fi / Horror",
+    "episodes": 24,
+    "tags": [
+      "Body horror",
+      "Philosophical",
+      "Underrated gem"
+    ],
+    "streaming": [
+      "netflix",
+      "crunchyroll"
+    ],
+    "color": "#3a7a3a",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "tokyoghoul",
+    "title": "Tokyo Ghoul",
+    "slug": "tokyo-ghoul",
+    "emoji": "🩸",
+    "tagline": "A boy who becomes what he feared most and cannot go back.",
+    "description": "Ken Kaneki receives ghoul organs in a transplant after nearly dying in an attack. He is now both human and ghoul. A compelling horror drama about identity.",
+    "genre": "Dark Fantasy / Horror",
+    "episodes": 12,
+    "tags": [
+      "Identity horror",
+      "Strong first season",
+      "Dark aesthetic"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c04040",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "haikyuu",
+    "title": "Haikyuu!!",
+    "slug": "haikyuu",
+    "emoji": "🏐",
+    "tagline": "The best sports anime ever made. Yes, including yours.",
+    "description": "Hinata Shoyo is a short kid who wants to play volleyball. Haikyuu works because it makes you care deeply about both teams. The animation in the later seasons is extraordinary.",
+    "genre": "Sports / Drama",
+    "episodes": 85,
+    "tags": [
+      "Best sports anime",
+      "Both sides matter",
+      "Animation peaks late"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e87000",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "mob100",
+    "title": "Mob Psycho 100",
+    "slug": "mob-psycho-100",
+    "emoji": "🌀",
+    "tagline": "The most powerful psychic alive just wants to be normal.",
+    "description": "Shigeo Mob Kageyama has overwhelming psychic powers and wants nothing more than to be ordinary. Mob Psycho 100 is about emotional intelligence over raw power.",
+    "genre": "Action / Comedy",
+    "episodes": 37,
+    "tags": [
+      "Emotional intelligence",
+      "Stunning animation",
+      "Earnest heart"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#8060e0",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "opm",
+    "title": "One Punch Man",
+    "slug": "one-punch-man",
+    "emoji": "👊",
+    "tagline": "The strongest man alive is bored out of his mind.",
+    "description": "Saitama can defeat any enemy with one punch and it's ruined his sense of purpose. A comedy about the existential hollowness of power fantasy.",
+    "genre": "Action / Comedy",
+    "episodes": 24,
+    "tags": [
+      "Genre parody",
+      "Hilarious",
+      "Season one is perfect"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e8c000",
+    "matchGenre": "action",
+    "matchTone": "light",
+    "matchPace": "fast",
+    "matchProtagonist": "power",
+    "matchRomance": "none"
+  },
+  {
+    "id": "gintama",
+    "title": "Gintama",
+    "slug": "gintama",
+    "emoji": "🗡️",
+    "tagline": "Feudal Japan, but with aliens. Also the funniest anime ever made.",
+    "description": "Aliens have taken over Edo-period Japan and outlawed swords. Gintoki Sakata does odd jobs to pay rent. Legendary for its comedy — parodying anime tropes, breaking the fourth wall.",
+    "genre": "Comedy / Action",
+    "episodes": 367,
+    "tags": [
+      "Funniest anime ever",
+      "Parody king",
+      "Emotional when it counts"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c0c040",
+    "matchGenre": "cozy",
+    "matchTone": "edgy",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "tpn",
+    "title": "The Promised Neverland",
+    "slug": "the-promised-neverland",
+    "emoji": "🌹",
+    "tagline": "An orphanage with a terrible secret. 11 children. One escape plan.",
+    "description": "Emma and her friends live in what seems like a paradise orphanage — until they discover the truth. A survival thriller that works entirely on the intelligence of its child characters.",
+    "genre": "Thriller / Horror",
+    "episodes": 12,
+    "tags": [
+      "Season one masterpiece",
+      "Survival thriller",
+      "Smart children"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#c04060",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "drstone",
+    "title": "Dr. Stone",
+    "slug": "dr-stone",
+    "emoji": "🧪",
+    "tagline": "Science is the magic system. It actually works.",
+    "description": "All of humanity is petrified for 3,700 years. A science genius rebuilds civilization from scratch — using actual science as their superpower. Surprisingly educational without ever being boring.",
+    "genre": "Sci-fi / Adventure",
+    "episodes": 57,
+    "tags": [
+      "Science is the power",
+      "Optimistic",
+      "Educational and fun"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#40a040",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "noragami",
+    "title": "Noragami",
+    "slug": "noragami",
+    "emoji": "⛩️",
+    "tagline": "A minor god, a stray shinki, and a 5-yen shrine.",
+    "description": "Yato is a minor deity without a shrine who takes odd jobs for 5 yen while dreaming of becoming famous. Blends Shinto mythology with genuine emotional depth.",
+    "genre": "Supernatural / Action",
+    "episodes": 25,
+    "tags": [
+      "Mythology-infused",
+      "Hidden gem",
+      "Great characters"
+    ],
+    "streaming": [
+      "hidive"
+    ],
+    "color": "#4060c0",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "natsume",
+    "title": "Natsume's Book of Friends",
+    "slug": "natsumes-book-of-friends",
+    "emoji": "📖",
+    "tagline": "A boy who inherited his grandmother's book of spirit names.",
+    "description": "Natsume Takashi can see spirits and spends the series returning their names to them. Quiet, warm, and one of the most comforting anime ever made.",
+    "genre": "Supernatural / Slice of Life",
+    "episodes": 74,
+    "tags": [
+      "Comfort anime",
+      "Spirit folklore",
+      "Deeply warm"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#b0a060",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "snafu",
+    "title": "My Teen Romantic Comedy SNAFU",
+    "slug": "my-teen-romantic-comedy-snafu",
+    "emoji": "📚",
+    "tagline": "A cynic, a perfectionist, and the gap between who we are and who we pretend to be.",
+    "description": "Hikigaya Hachiman is a loner forced to join a service club. SNAFU is smarter than its title suggests — a painful, honest portrait of social anxiety and learning to let people in.",
+    "genre": "Romance / Drama",
+    "episodes": 38,
+    "tags": [
+      "Emotionally honest",
+      "Social anxiety",
+      "Slow burn romance"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#607090",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "fireforce",
+    "title": "Fire Force",
+    "slug": "fire-force",
+    "emoji": "🔥",
+    "tagline": "Firefighters, but the fires are people, and the city is a mystery.",
+    "description": "In a world where humans spontaneously combust into Infernals, Shinra Kusakabe joins Special Fire Force Company 8. Gorgeous fight animation and a conspiracy plot that deepens satisfyingly.",
+    "genre": "Action / Supernatural",
+    "episodes": 48,
+    "tags": [
+      "Great action",
+      "Unique setting",
+      "Conspiracy mystery"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e84000",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "worldtrigger",
+    "title": "World Trigger",
+    "slug": "world-trigger",
+    "emoji": "🎯",
+    "tagline": "Strategy over power. A rare thing in shonen.",
+    "description": "Aliens called Neighbors invade Earth and a defense organization called Border fights back. World Trigger distinguishes itself with combat built entirely on positioning, resource management, and tactical thinking.",
+    "genre": "Sci-fi / Action",
+    "episodes": 100,
+    "tags": [
+      "Strategy combat",
+      "Underrated",
+      "Long-game investment"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4090c0",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "yurionice",
+    "title": "Yuri!!! on ICE",
+    "slug": "yuri-on-ice",
+    "emoji": "⛸️",
+    "tagline": "A figure skater who found himself on the ice, and someone to skate for.",
+    "description": "After a crushing defeat, Japanese figure skater Yuri Katsuki is taken on by his idol Viktor Nikiforov. A romance, a sports story, and a portrait of anxiety and artistic growth.",
+    "genre": "Sports / Romance",
+    "episodes": 12,
+    "tags": [
+      "Sports romance",
+      "Anxiety rep",
+      "Iconic couple"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4080d0",
+    "matchGenre": "emotional",
+    "matchTone": "hopeful",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "blackclover",
+    "title": "Black Clover",
+    "slug": "black-clover",
+    "emoji": "🍀",
+    "tagline": "No magic. No problem. Just an absurd amount of screaming.",
+    "description": "Asta is born with no magic in a world where magic is everything. Black Clover is pure shonen energy — loud, earnest, and deeply committed to its ensemble cast.",
+    "genre": "Shonen / Fantasy",
+    "episodes": 170,
+    "tags": [
+      "Underdog energy",
+      "Strong ensemble",
+      "Gets better over time"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#1a4a1a",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "power",
+    "matchRomance": "light"
+  },
+  {
+    "id": "sao",
+    "title": "Sword Art Online",
+    "slug": "sword-art-online",
+    "emoji": "⚔️",
+    "tagline": "Trapped in a video game where death is real.",
+    "description": "Ten thousand players are trapped inside a virtual reality MMO where dying in the game means dying in real life.",
+    "genre": "Isekai / Action",
+    "episodes": 96,
+    "tags": [
+      "Iconic premise",
+      "Action-heavy",
+      "Divisive but entertaining"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#4080c0",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "gurren",
+    "title": "Gurren Lagann",
+    "slug": "gurren-lagann",
+    "emoji": "🌀",
+    "tagline": "Drill through the heavens. Believe in the you that believes in yourself.",
+    "description": "Simon and Kamina break out of their underground village and discover a world of giant mechs and alien oppressors. Gurren Lagann is pure escalating hype — it starts big and ends cosmically.",
+    "genre": "Mecha / Action",
+    "episodes": 27,
+    "tags": [
+      "Peak hype",
+      "Motivational",
+      "Escalation king"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#e84000",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "fast",
+    "matchProtagonist": "power",
+    "matchRomance": "light"
+  },
+  {
+    "id": "madeinabyss",
+    "title": "Made in Abyss",
+    "slug": "made-in-abyss",
+    "emoji": "🕳️",
+    "tagline": "A hole in the earth that goes down forever. Children descend anyway.",
+    "description": "Riko descends into the Abyss — a vast, mysterious chasm filled with relics and monsters — to find her missing mother. Made in Abyss looks like a children's adventure. It is one of the darkest, most brutal anime ever made.",
+    "genre": "Adventure / Dark Fantasy",
+    "episodes": 13,
+    "tags": [
+      "Deceptively dark",
+      "World-building peak",
+      "Emotionally scarring"
+    ],
+    "streaming": [
+      "prime",
+      "hidive"
+    ],
+    "color": "#6040a0",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "tensura",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "slug": "tensura",
+    "emoji": "🟦",
+    "tagline": "Reborn as the weakest creature. Ends up running a country.",
+    "description": "Satoru Mikami is reincarnated as a slime in a fantasy world. Through absorption and friendship he builds one of the most powerful nations around.",
+    "genre": "Isekai / Fantasy",
+    "episodes": 72,
+    "tags": [
+      "Feel-good isekai",
+      "Nation building",
+      "Likeable protagonist"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4080b0",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "mushokutensei",
+    "title": "Mushoku Tensei",
+    "slug": "mushoku-tensei",
+    "emoji": "🌱",
+    "tagline": "A second life taken more seriously than the first.",
+    "description": "A 34-year-old shut-in dies and is reincarnated in a fantasy world with all his memories intact. Mushoku Tensei is the most technically crafted isekai ever made.",
+    "genre": "Isekai / Fantasy",
+    "episodes": 46,
+    "tags": [
+      "Best isekai worldbuilding",
+      "Character growth",
+      "Premium animation"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#70a050",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "nogamelnolife",
+    "title": "No Game No Life",
+    "slug": "no-game-no-life",
+    "emoji": "♟️",
+    "tagline": "Two genius shut-ins transported to a world decided by games.",
+    "description": "Siblings Sora and Shiro are unbeatable at every game and are transported to a world where all conflict is resolved through games. Colorful, fast, and outrageously clever.",
+    "genre": "Isekai / Strategy",
+    "episodes": 12,
+    "tags": [
+      "Genius protagonists",
+      "Mind games",
+      "Vibrant aesthetic"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c060e0",
+    "matchGenre": "mystery",
+    "matchTone": "light",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "loghorizon",
+    "title": "Log Horizon",
+    "slug": "log-horizon",
+    "emoji": "🗺️",
+    "tagline": "Trapped in an MMO. Let's build a civilization.",
+    "description": "Thousands of players are trapped in the MMO Elder Tale. Unlike other isekai, Log Horizon focuses on politics, economics, and society-building rather than combat.",
+    "genre": "Isekai / Strategy",
+    "episodes": 62,
+    "tags": [
+      "Strategy focus",
+      "World-building",
+      "Unique isekai"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4060c0",
+    "matchGenre": "mystery",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "86",
+    "title": "86: Eighty Six",
+    "slug": "86-eighty-six",
+    "emoji": "💀",
+    "tagline": "They say there are no casualties in this war. They're lying.",
+    "description": "In a nation that claims to fight an autonomous war with zero human casualties, Lena commands a squadron of soldiers the government refuses to acknowledge as human. 86 is one of the most powerful anti-war anime ever made.",
+    "genre": "Sci-fi / Drama",
+    "episodes": 23,
+    "tags": [
+      "Anti-war",
+      "Emotional devastation",
+      "Stunning mech action"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c04040",
+    "matchGenre": "emotional",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "goblinslayer",
+    "title": "Goblin Slayer",
+    "slug": "goblin-slayer",
+    "emoji": "🗡️",
+    "tagline": "He does not save the world. He kills goblins.",
+    "description": "A silver-ranked adventurer dedicates his entire existence to exterminating goblins after a childhood tragedy.",
+    "genre": "Dark Fantasy / Action",
+    "episodes": 12,
+    "tags": [
+      "Dark fantasy",
+      "Methodical protagonist",
+      "Grim tone"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#3a2a1a",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "fatezero",
+    "title": "Fate/Zero",
+    "slug": "fate-zero",
+    "emoji": "⚔️",
+    "tagline": "Seven mages summon legendary heroes. Only one can win the Holy Grail.",
+    "description": "The Fourth Holy Grail War — mages and their summoned heroic spirits fight to the death for one wish. Fate/Zero is morally complex, beautifully animated, and asks hard questions about idealism.",
+    "genre": "Dark Fantasy / Action",
+    "episodes": 25,
+    "tags": [
+      "Moral complexity",
+      "Ufotable animation",
+      "Best Fate entry point"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#2030a0",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "fateubw",
+    "title": "Fate/Stay Night: UBW",
+    "slug": "fate-stay-night-ubw",
+    "emoji": "🗡️",
+    "tagline": "Two ideologies. One battlefield. A question about what makes a hero.",
+    "description": "Shirou Emiya and Rin Tohsaka enter the Fifth Holy Grail War. UBW is a philosophical debate about heroism wrapped in Ufotable's breathtaking action sequences.",
+    "genre": "Dark Fantasy / Action",
+    "episodes": 26,
+    "tags": [
+      "Philosophical",
+      "Ufotable peak",
+      "Archer mystery"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#1020a0",
+    "matchGenre": "mystery",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "devilparttimer",
+    "title": "The Devil is a Part-Timer!",
+    "slug": "the-devil-is-a-part-timer",
+    "emoji": "😈",
+    "tagline": "The Demon King gets a job at MgRonald's.",
+    "description": "The Demon King Satan is defeated and escapes to modern Tokyo, where he has no magic and must work part-time at a fast food restaurant to survive.",
+    "genre": "Comedy / Fantasy",
+    "episodes": 26,
+    "tags": [
+      "Perfect premise",
+      "Fish out of water",
+      "Genuinely funny"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#800080",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "power",
+    "matchRomance": "light"
+  },
+  {
+    "id": "ancientmagusbride",
+    "title": "The Ancient Magus' Bride",
+    "slug": "the-ancient-magus-bride",
+    "emoji": "🌿",
+    "tagline": "A girl sold at auction to a mage who is not quite human.",
+    "description": "Chise Hatori, a teenager with nowhere to belong, is purchased by the non-human mage Elias Ainsworth. Ancient Magus Bride is folklore-dense, visually stunning, and quietly devastating.",
+    "genre": "Fantasy / Romance",
+    "episodes": 24,
+    "tags": [
+      "Folklore-rich",
+      "Beautiful",
+      "Complex relationship"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#408040",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "akamegakill",
+    "title": "Akame ga Kill",
+    "slug": "akame-ga-kill",
+    "emoji": "⚔️",
+    "tagline": "A revolutionary army. Assassins with weapons that kill with one hit.",
+    "description": "Tatsumi joins Night Raid — an assassin group fighting a corrupt empire. Akame ga Kill is brutal about killing its cast and unashamed about it.",
+    "genre": "Dark Fantasy / Action",
+    "episodes": 24,
+    "tags": [
+      "Nobody is safe",
+      "Dark fantasy",
+      "Revolution"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c00020",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "danmachi",
+    "title": "Danmachi",
+    "slug": "danmachi",
+    "emoji": "⚔️",
+    "tagline": "A boy who wants to be a hero in a dungeon full of gods.",
+    "description": "Bell Cranel is the weakest adventurer in a city built around a massive dungeon. DanMachi is warm, earnest adventure with strong character dynamics and satisfying power progression.",
+    "genre": "Fantasy / Adventure",
+    "episodes": 60,
+    "tags": [
+      "Warm adventure",
+      "Great cast",
+      "Dungeon crawling"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#e8a000",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "futurediary",
+    "title": "Future Diary",
+    "slug": "future-diary",
+    "emoji": "🗓️",
+    "tagline": "Twelve diary owners. One survival game. Zero mercy.",
+    "description": "Twelve kids are locked in a game of survival: the Future Diary. Each has a diary that predicts the future in a different way. A brutal psychological thriller.",
+    "genre": "Psychological / Thriller",
+    "episodes": 26,
+    "tags": [
+      "Survival game",
+      "Yuno is iconic",
+      "Unpredictable"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e8a080",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "psychopass",
+    "title": "Psycho-Pass",
+    "slug": "psycho-pass",
+    "emoji": "🔫",
+    "tagline": "In the future, your mental state determines if you're a criminal.",
+    "description": "Psycho-Pass follows officers who enforce law in a future Japan where a person's mental state can be scanned to predict criminality. One of the smartest cyberpunk political thrillers in anime.",
+    "genre": "Sci-fi / Thriller",
+    "episodes": 22,
+    "tags": [
+      "Cyberpunk politics",
+      "Philosophical",
+      "Crime thriller"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#20a0c0",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "gitsac",
+    "title": "Ghost in the Shell: SAC",
+    "slug": "ghost-in-the-shell-sac",
+    "emoji": "🤖",
+    "tagline": "What makes a person real in a world where memory can be manufactured?",
+    "description": "Ghost in the Shell: SAC follows Section 9 as they investigate cybercrime and terrorism in a world where humans can upload their consciousness. The most philosophically dense sci-fi anime ever made.",
+    "genre": "Sci-fi / Thriller",
+    "episodes": 52,
+    "tags": [
+      "Cyberpunk philosophy",
+      "Most intelligent sci-fi",
+      "Essential"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#80a0c0",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "higurashi",
+    "title": "Higurashi: When They Cry",
+    "slug": "higurashi-when-they-cry",
+    "emoji": "💚",
+    "tagline": "A rural village. The same people keep dying in different ways.",
+    "description": "A group of students investigate supernatural phenomena in a rural village. Higurashi is a horror mystery where everyone keeps dying and resetting in different ways. Genuinely disturbing.",
+    "genre": "Horror / Mystery",
+    "episodes": 26,
+    "tags": [
+      "Horror mystery",
+      "Time loop",
+      "Deeply disturbing"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#808000",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "kaiji",
+    "title": "Kaiji: Ultimate Survivor",
+    "slug": "kaiji-ultimate-survivor",
+    "emoji": "🎲",
+    "tagline": "A loser gambles for his life. The games are psychologically brutal.",
+    "description": "Kaiji Itou is a lazy slacker drowning in debt who ends up on an underground gambling ship where the losers become slaves. Kaiji is psychological gambling fiction at its most intense.",
+    "genre": "Psychological / Thriller",
+    "episodes": 26,
+    "tags": [
+      "Psychological gambling",
+      "High tension",
+      "Underrated masterpiece"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c08020",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "monogatari",
+    "title": "Monogatari Series",
+    "slug": "monogatari-series",
+    "emoji": "💬",
+    "tagline": "A boy who survived vampirism now helps girls with supernatural problems. Mostly by talking.",
+    "description": "Monogatari follows Koyomi Araragi, a high school boy who survived a vampire attack and now helps girls with supernatural afflictions. Dense, dialogue-heavy, and visually inventive.",
+    "genre": "Supernatural / Mystery",
+    "episodes": 15,
+    "tags": [
+      "Dialogue-heavy",
+      "Visually inventive",
+      "Acquired taste masterpiece"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#8040a0",
+    "matchGenre": "mystery",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "haruhi",
+    "title": "The Melancholy of Haruhi Suzumiya",
+    "slug": "haruhi-suzumiya",
+    "emoji": "⭐",
+    "tagline": "A girl who does not know she is God runs a school club.",
+    "description": "Haruhi Suzumiya is an eccentric girl who unknowingly reshapes reality around her whims. Its non-linear first broadcast order was a landmark moment in anime history.",
+    "genre": "Sci-fi / Comedy",
+    "episodes": 28,
+    "tags": [
+      "Landmark series",
+      "Reality-bending",
+      "Cult classic"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c0a000",
+    "matchGenre": "mystery",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "welcomenhk",
+    "title": "Welcome to the NHK",
+    "slug": "welcome-to-the-nhk",
+    "emoji": "🏠",
+    "tagline": "A hikikomori convinced society is conspiring against him.",
+    "description": "Sato is a 22-year-old shut-in convinced that the NHK broadcasting company is behind a conspiracy. Welcome to the NHK is brutally honest about social anxiety, depression, and the comfort of self-delusion.",
+    "genre": "Drama / Psychological",
+    "episodes": 24,
+    "tags": [
+      "Hikikomori life",
+      "Honest and painful",
+      "Dark comedy"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#5060a0",
+    "matchGenre": "emotional",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "kinosjourney",
+    "title": "Kino's Journey",
+    "slug": "kinos-journey",
+    "emoji": "🌍",
+    "tagline": "A traveler who spends exactly three days in every country she visits.",
+    "description": "Kino travels the world on a talking motorcycle named Hermes, visiting countries with bizarre and often disturbing laws and customs for exactly three days each.",
+    "genre": "Adventure / Philosophical",
+    "episodes": 13,
+    "tags": [
+      "Philosophical",
+      "World-building",
+      "Thoughtful"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#204080",
+    "matchGenre": "mystery",
+    "matchTone": "edgy",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "fruitsbasket",
+    "title": "Fruits Basket (2019)",
+    "slug": "fruits-basket-2019",
+    "emoji": "🍊",
+    "tagline": "A girl discovers her classmates are cursed to turn into animals when hugged.",
+    "description": "Tohru Honda moves in with the Sohma family and discovers their secret — members transform into Chinese zodiac animals when hugged by the opposite sex.",
+    "genre": "Romance / Drama",
+    "episodes": 63,
+    "tags": [
+      "Emotional depth",
+      "Romance",
+      "Curse mythology"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e07060",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "ouran",
+    "title": "Ouran High School Host Club",
+    "slug": "ouran-high-school-host-club",
+    "emoji": "🌹",
+    "tagline": "A scholarship student accidentally breaks an expensive vase and must join the host club.",
+    "description": "Haruhi Fujioka is a practical scholarship student at an elite school who stumbles into the Host Club. Ouran is a warm, clever reverse harem parody.",
+    "genre": "Romantic Comedy",
+    "episodes": 26,
+    "tags": [
+      "Charming",
+      "Parody with heart",
+      "Classic"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#e8b0c0",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "nana",
+    "title": "Nana",
+    "slug": "nana",
+    "emoji": "🎤",
+    "tagline": "Two women named Nana share an apartment and change each other's lives.",
+    "description": "Nana Osaki and Nana Komatsu are two very different women who end up sharing an apartment in Tokyo. Nana is one of the most mature, emotionally honest portrayals of female friendship in all of anime.",
+    "genre": "Drama / Romance",
+    "episodes": 47,
+    "tags": [
+      "Josei masterpiece",
+      "Female friendship",
+      "Music scene"
+    ],
+    "streaming": [
+      "netflix"
+    ],
+    "color": "#20a080",
+    "matchGenre": "emotional",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "chihayafuru",
+    "title": "Chihayafuru",
+    "slug": "chihayafuru",
+    "emoji": "🎯",
+    "tagline": "A girl who fell in love with karuta. Also with someone she cannot have.",
+    "description": "Chihaya Ayase becomes obsessed with karuta — a competitive card game based on classical poetry — and builds a club. Chihayafuru makes karuta the most intense sport you've ever watched.",
+    "genre": "Sports / Romance",
+    "episodes": 75,
+    "tags": [
+      "Karuta is intense",
+      "Sports romance hybrid",
+      "Beautiful"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#408020",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "orange",
+    "title": "Orange",
+    "slug": "orange",
+    "emoji": "🍊",
+    "tagline": "Everyone can see their death date. A girl who wants to change hers meets a boy who gave up.",
+    "description": "In a world where everyone can see their death date and cause, high schoolers Hitomi and Kakeru meet under unique circumstances.",
+    "genre": "Romance / Supernatural",
+    "episodes": 12,
+    "tags": [
+      "Death clock premise",
+      "Short and emotional",
+      "Beautiful"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#b060c0",
+    "matchGenre": "emotional",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "spiceandwolf",
+    "title": "Spice and Wolf",
+    "slug": "spice-and-wolf",
+    "emoji": "🐺",
+    "tagline": "A merchant and a wolf goddess travel north arguing about economics and falling in love.",
+    "description": "The Spice and Wolf follows traveling merchant Kraft Lawrence and the ancient wolf deity Holo. A rare anime about economics, trust, and slow-building romance between equals.",
+    "genre": "Fantasy / Romance",
+    "episodes": 25,
+    "tags": [
+      "Economics romance",
+      "Rare adult relationship",
+      "Intellectual"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c08040",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "smart",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "march",
+    "title": "March Comes in Like a Lion",
+    "slug": "march-comes-in-like-a-lion",
+    "emoji": "♟️",
+    "tagline": "A teenage shogi prodigy. Profoundly alone. Slowly finding his way back.",
+    "description": "Rei Kiriyama is a 17-year-old professional shogi player living alone, struggling with depression. March Comes in Like a Lion is one of the most honest portrayals of mental health in any medium.",
+    "genre": "Drama / Sports",
+    "episodes": 44,
+    "tags": [
+      "Mental health",
+      "Shogi",
+      "Emotionally healing"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#6080a0",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "bluelock",
+    "title": "Blue Lock",
+    "slug": "blue-lock",
+    "emoji": "⚽",
+    "tagline": "300 strikers. One spot on Japan's national team. No mercy.",
+    "description": "Japan's Football Union locks 300 top strikers in a facility and forces them to compete in deadly psychological games to forge a world-class striker. Blue Lock is the most intense sports anime in years.",
+    "genre": "Sports / Action",
+    "episodes": 24,
+    "tags": [
+      "Intense competition",
+      "Psychological",
+      "Shonen sports hybrid"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#2040a0",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "ippo",
+    "title": "Hajime no Ippo",
+    "slug": "hajime-no-ippo",
+    "emoji": "🥊",
+    "tagline": "A bullied kid who learns that quiet strength hits hardest.",
+    "description": "Ippo Makunouchi is bullied constantly until a pro boxer teaches him to fight. One of the most detailed, emotionally grounded sports anime ever made.",
+    "genre": "Sports / Drama",
+    "episodes": 75,
+    "tags": [
+      "Underdog classic",
+      "Detailed boxing",
+      "Emotional payoff"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c04020",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "runwithwind",
+    "title": "Run with the Wind",
+    "slug": "run-with-the-wind",
+    "emoji": "🏃",
+    "tagline": "Ten college runners. One impossible race. Zero reasons to stop.",
+    "description": "A former high school track star is recruited by his eccentric roommate to form a team for the Hakone Ekiden. Quietly one of the best sports anime ever made.",
+    "genre": "Sports / Drama",
+    "episodes": 23,
+    "tags": [
+      "Underrated gem",
+      "Character ensemble",
+      "Slow burn payoff"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#4090c0",
+    "matchGenre": "emotional",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "pingpong",
+    "title": "Ping Pong the Animation",
+    "slug": "ping-pong-the-animation",
+    "emoji": "🏓",
+    "tagline": "Two childhood friends. Very different reasons to play.",
+    "description": "Peco and Smile are childhood friends with completely opposite approaches to table tennis. Ping Pong is the most philosophically rich sports anime ever made.",
+    "genre": "Sports / Drama",
+    "episodes": 11,
+    "tags": [
+      "Visual masterpiece",
+      "Philosophical",
+      "11 episodes"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#a04040",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "slamdunk",
+    "title": "Slam Dunk",
+    "slug": "slam-dunk",
+    "emoji": "🏀",
+    "tagline": "A delinquent joins basketball to impress a girl. Falls in love with the sport instead.",
+    "description": "Hanamichi Sakuragi joins his school's basketball team after being rejected by dozens of girls. The 2022 film adaptation is genuinely stunning.",
+    "genre": "Sports / Comedy",
+    "episodes": 101,
+    "tags": [
+      "Foundational classic",
+      "Comedy and heart",
+      "2022 film is stunning"
+    ],
+    "streaming": [
+      "netflix"
+    ],
+    "color": "#c04000",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "kon",
+    "title": "K-On!",
+    "slug": "k-on",
+    "emoji": "🎸",
+    "tagline": "Four girls start a band. The music matters less than the friendship.",
+    "description": "Five high school girls start a light music club. K-On! is deceptively simple — there's no drama, just the warm accumulation of friendship and the bittersweet reality of things ending.",
+    "genre": "Slice of Life / Music",
+    "episodes": 39,
+    "tags": [
+      "Ultimate comfort",
+      "Bittersweet",
+      "KyoAni warmth"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#8060c0",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "laidbackcamp",
+    "title": "Laid-Back Camp",
+    "slug": "laid-back-camp",
+    "emoji": "⛺",
+    "tagline": "Girls go camping. It is as peaceful as it sounds.",
+    "description": "Four girls start a camping club and go on low-key outdoor adventures in the beautiful Japanese countryside. Laid-Back Camp is therapeutic — watching it feels like sitting by a campfire with good friends.",
+    "genre": "Slice of Life",
+    "episodes": 25,
+    "tags": [
+      "Camping aesthetic",
+      "Deeply relaxing",
+      "Comfort anime"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#608060",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "nonnon",
+    "title": "Non Non Biyori",
+    "slug": "non-non-biyori",
+    "emoji": "🌾",
+    "tagline": "Four kids in a village with one student per grade. Peak rural comfort.",
+    "description": "Renge Miyauchi and her friends live in an extremely rural village where the whole school has five students across all grades. The definitive comfort anime.",
+    "genre": "Slice of Life",
+    "episodes": 36,
+    "tags": [
+      "Ultimate comfort",
+      "Rural Japan",
+      "No conflict needed"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#80b040",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "barakamon",
+    "title": "Barakamon",
+    "slug": "barakamon",
+    "emoji": "✍️",
+    "tagline": "A calligrapher exiled to an island. The island fixes him.",
+    "description": "Seishuu Handa is a prodigious calligrapher who punches a critic and is exiled to a rural island. The island's community slowly reminds him why he loved art in the first place.",
+    "genre": "Slice of Life / Comedy",
+    "episodes": 12,
+    "tags": [
+      "Wholesome",
+      "Artist finding themselves",
+      "Rural charm"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#60a060",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "aria",
+    "title": "Aria the Animation",
+    "slug": "aria-the-animation",
+    "emoji": "⛵",
+    "tagline": "A gondolier on a flooded Mars. Nothing bad happens. That is the whole show.",
+    "description": "A girl on a journey to become a gondolier on a future flooded Mars rows through a slow, beautiful life. Aria is the definitive iyashikei — healing — anime. Nothing bad ever happens. That is the entire point.",
+    "genre": "Slice of Life / Sci-fi",
+    "episodes": 52,
+    "tags": [
+      "Ultimate healing",
+      "Iyashikei peak",
+      "Slow and beautiful"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#806040",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "sweetnesslight",
+    "title": "Sweetness & Lightning",
+    "slug": "sweetness-and-lightning",
+    "emoji": "🍳",
+    "tagline": "A widowed father learns to cook for his daughter.",
+    "description": "A chef discovers his young daughter works at the restaurant he frequents. Sweetness and Lightning is a quiet, emotionally resonant series about grief, food, and what it means to be a present parent.",
+    "genre": "Slice of Life / Drama",
+    "episodes": 12,
+    "tags": [
+      "Food anime",
+      "Single parent",
+      "Wholesome and emotional"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#20a060",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "foodwars",
+    "title": "Food Wars!",
+    "slug": "food-wars",
+    "emoji": "🍳",
+    "tagline": "Cooking as combat sport. Absurd and completely compelling.",
+    "description": "Soma Yukihira transfers to the elite Totsuki Culinary Academy and faces off against food prodigies in intense cooking battles.",
+    "genre": "Shonen / Food",
+    "episodes": 86,
+    "tags": [
+      "Food battles",
+      "Shonen format",
+      "Surprisingly intense"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#80a060",
+    "matchGenre": "action",
+    "matchTone": "light",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "natsumeyu",
+    "title": "Natsume Yuujinchou",
+    "slug": "natsume-yuujinchou",
+    "emoji": "🐾",
+    "tagline": "A boy returns names to the spirits his grandmother had bound.",
+    "description": "Natsume Takashi can see spirits, just like his grandmother Reiko who made a book of contracts forcing spirits to obey her. He spends the series returning their names.",
+    "genre": "Supernatural / Slice of Life",
+    "episodes": 74,
+    "tags": [
+      "Spirit world",
+      "Episodic gem",
+      "Deeply healing"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#205080",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "sailormoon",
+    "title": "Sailor Moon",
+    "slug": "sailor-moon",
+    "emoji": "🌙",
+    "tagline": "The original magical girl. Still holds up.",
+    "description": "Usagi Tsukino is a clumsy 14-year-old who becomes Sailor Moon — a magical guardian of love and justice. The foundational magical girl series that defined a generation.",
+    "genre": "Magical Girl / Romance",
+    "episodes": 200,
+    "tags": [
+      "Foundational classic",
+      "Magical girl origin",
+      "Timeless"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e070c0",
+    "matchGenre": "emotional",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "cardcaptor",
+    "title": "Cardcaptor Sakura",
+    "slug": "cardcaptor-sakura",
+    "emoji": "✨",
+    "tagline": "A girl who accidentally releases magical cards into the world and has to catch them all.",
+    "description": "Sakura Kinomoto accidentally releases the Clow Cards from a magical book and must recapture them as the new Cardcaptor. A warm, gentle magical girl series with beautiful animation.",
+    "genre": "Magical Girl / Fantasy",
+    "episodes": 70,
+    "tags": [
+      "Classic CLAMP",
+      "Gentle and warm",
+      "Nostalgic"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#f0a0d0",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "jojo1",
+    "title": "JoJo: Phantom Blood",
+    "slug": "jojos-phantom-blood",
+    "emoji": "⭐",
+    "tagline": "The rivalry that started it all. Jonathan vs. Dio.",
+    "description": "The ancient clash between vampires and vampire hunters reaches Japan when Dio Brando uses a mysterious stone mask. The first part of JoJo's Bizarre Adventure.",
+    "genre": "Action / Horror",
+    "episodes": 9,
+    "tags": [
+      "JoJo origin",
+      "Victorian horror",
+      "Hamon battles"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#c0a060",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "fast",
+    "matchProtagonist": "power",
+    "matchRomance": "light"
+  },
+  {
+    "id": "jojo2",
+    "title": "JoJo: Battle Tendency",
+    "slug": "jojos-battle-tendency",
+    "emoji": "✊",
+    "tagline": "Joseph Joestar vs. ancient gods. He is going to be obnoxious about it.",
+    "description": "Joseph Joestar battles the Pillar Men — ancient, impossibly powerful beings who created the stone mask. Battle Tendency is JoJo at its most fun and bombastic.",
+    "genre": "Action / Comedy",
+    "episodes": 17,
+    "tags": [
+      "Peak fun",
+      "Pillar Men",
+      "Iconic JoJo"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#c0a030",
+    "matchGenre": "action",
+    "matchTone": "light",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "jojo3",
+    "title": "JoJo: Stardust Crusaders",
+    "slug": "jojos-stardust-crusaders",
+    "emoji": "👮",
+    "tagline": "Jotaro Kujo vs. Dio Brando. Across the world.",
+    "description": "Jotaro Kujo and his companions travel from Japan to Egypt to defeat the immortal Dio Brando, battling Stand users along the way. Stardust Crusaders introduces Stands — the series' defining power system.",
+    "genre": "Action / Adventure",
+    "episodes": 48,
+    "tags": [
+      "Stand powers introduced",
+      "Iconic cast",
+      "Road trip format"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#9b59b6",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "episodic",
+    "matchProtagonist": "power",
+    "matchRomance": "none"
+  },
+  {
+    "id": "jojo4",
+    "title": "JoJo: Diamond is Unbreakable",
+    "slug": "jojos-diamond-is-unbreakable",
+    "emoji": "💎",
+    "tagline": "A serial killer just wants a quiet life. The town disagrees.",
+    "description": "Josuke Higashikata defends Morioh Town from a serial killer Stand user named Kira. Diamond is Unbreakable is JoJo's most character-rich part — a murder mystery in a small town.",
+    "genre": "Mystery / Action",
+    "episodes": 39,
+    "tags": [
+      "Best JoJo villain",
+      "Murder mystery",
+      "Small town cast"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#e74c3c",
+    "matchGenre": "mystery",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "jojo5",
+    "title": "JoJo: Golden Wind",
+    "slug": "jojos-golden-wind",
+    "emoji": "🎬",
+    "tagline": "A boy with a dream of becoming the most powerful man in the Italian mafia.",
+    "description": "Giorno Giovanna dreams of becoming a Gang-Star. Set in Italy, Vento Aureo is the most stylish JoJo yet, with the best soundtrack and one of the most beloved casts.",
+    "genre": "Action / Crime",
+    "episodes": 39,
+    "tags": [
+      "Most stylish JoJo",
+      "Best soundtrack",
+      "Italy setting"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#27ae60",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "jojo6",
+    "title": "JoJo: Stone Ocean",
+    "slug": "jojos-stone-ocean",
+    "emoji": "🐚",
+    "tagline": "Jotaro's daughter is in prison. The conspiracy is bigger than both of them.",
+    "description": "Jolyne Cujoh is wrongly imprisoned and must escape while unraveling a conspiracy connected to her father Jotaro. Stone Ocean is the most emotionally personal JoJo part.",
+    "genre": "Action / Thriller",
+    "episodes": 38,
+    "tags": [
+      "Female JoJo",
+      "Prison arc",
+      "Divisive ending"
+    ],
+    "streaming": [
+      "netflix"
+    ],
+    "color": "#8e44ad",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "spiritedaway",
+    "title": "Spirited Away",
+    "slug": "spirited-away",
+    "emoji": "🏮",
+    "tagline": "A girl alone in a world that does not care who she is.",
+    "description": "Ten-year-old Chihiro is trapped in a spirit world run by a witch and must work to save her parents. Miyazaki's masterpiece is a coming-of-age story about labour, identity, and growing up.",
+    "genre": "Fantasy / Adventure",
+    "episodes": 1,
+    "tags": [
+      "Studio Ghibli",
+      "All-ages masterpiece",
+      "Timeless"
+    ],
+    "streaming": [
+      "hulu",
+      "netflix"
+    ],
+    "color": "#78b8a0",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "mononoke",
+    "title": "Princess Mononoke",
+    "slug": "princess-mononoke",
+    "emoji": "🐺",
+    "tagline": "There are no villains. Only people who want different things.",
+    "description": "A young prince cursed by a dying boar god travels to the forest to find a cure and lands in the middle of a war between the forest spirits and a human settlement. Miyazaki's most morally complex film.",
+    "genre": "Fantasy / Action",
+    "episodes": 1,
+    "tags": [
+      "Studio Ghibli",
+      "Moral complexity",
+      "Epic scale"
+    ],
+    "streaming": [
+      "hulu",
+      "netflix"
+    ],
+    "color": "#4a7a3a",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "howls",
+    "title": "Howl's Moving Castle",
+    "slug": "howls-moving-castle",
+    "emoji": "🏰",
+    "tagline": "A cursed seamstress, a cowardly wizard, and a castle on legs.",
+    "description": "Sophie is cursed by a witch to live as an old woman and takes shelter in the moving castle of the mysterious wizard Howl. A love story about courage, self-worth, and the absurdity of war.",
+    "genre": "Fantasy / Romance",
+    "episodes": 1,
+    "tags": [
+      "Studio Ghibli",
+      "Romantic",
+      "Beautiful"
+    ],
+    "streaming": [
+      "hulu",
+      "netflix"
+    ],
+    "color": "#e8a060",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "totoro",
+    "title": "My Neighbor Totoro",
+    "slug": "my-neighbor-totoro",
+    "emoji": "🌳",
+    "tagline": "Two sisters move to the countryside and meet a forest spirit.",
+    "description": "Satsuki and Mei move to a new house in the countryside while their mother is in hospital. They encounter Totoro — a giant forest spirit. The most comforting film ever made.",
+    "genre": "Fantasy / Family",
+    "episodes": 1,
+    "tags": [
+      "Studio Ghibli",
+      "Ultimate comfort",
+      "All ages"
+    ],
+    "streaming": [
+      "hulu",
+      "netflix"
+    ],
+    "color": "#5a9a5a",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "none"
+  },
+  {
+    "id": "nausicaa",
+    "title": "Nausicaa of the Valley of the Wind",
+    "slug": "nausicaa-of-the-valley-of-the-wind",
+    "emoji": "🌪️",
+    "tagline": "A warrior princess who talks to the monsters everyone else fears.",
+    "description": "In a post-apocalyptic world covered in toxic jungle, Princess Nausicaa tries to prevent war between human kingdoms while uncovering the truth about the toxic forest.",
+    "genre": "Fantasy / Action",
+    "episodes": 1,
+    "tags": [
+      "Studio Ghibli",
+      "Ecological themes",
+      "Epic protagonist"
+    ],
+    "streaming": [
+      "hulu",
+      "netflix"
+    ],
+    "color": "#8a9a5a",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "castleinthesky",
+    "title": "Castle in the Sky",
+    "slug": "castle-in-the-sky",
+    "emoji": "✈️",
+    "tagline": "A flying castle, treasure hunters, and two kids against the world.",
+    "description": "Sheeta possesses a mysterious crystal that leads her and Pazu to Laputa — a legendary floating castle. Castle in the Sky is Miyazaki's most purely adventurous film.",
+    "genre": "Fantasy / Adventure",
+    "episodes": 1,
+    "tags": [
+      "Studio Ghibli",
+      "Pure adventure",
+      "Found family"
+    ],
+    "streaming": [
+      "hulu",
+      "netflix"
+    ],
+    "color": "#6a8aba",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "fast",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "dbz",
+    "title": "Dragon Ball Z",
+    "slug": "dragon-ball-z",
+    "emoji": "🐉",
+    "tagline": "The reason half the world knows what a Super Saiyan is.",
+    "description": "Goku and friends defend Earth from increasingly powerful threats while going Super Saiyan and screaming for extended periods. DBZ defined shonen power escalation.",
+    "genre": "Shonen / Action",
+    "episodes": 291,
+    "tags": [
+      "Cultural touchstone",
+      "Pure power fantasy",
+      "Iconic"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e8a000",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "power",
+    "matchRomance": "none"
+  },
+  {
+    "id": "narutoshippu",
+    "title": "Naruto Shippuden",
+    "slug": "naruto-shippuden",
+    "emoji": "🍥",
+    "tagline": "The war arc hits harder than anything in shonen.",
+    "description": "Naruto returns from training to find the world on the brink of a ninja world war. Shippuden is where the emotional payoff of Naruto's early setup is fully delivered. The Pain arc is devastating.",
+    "genre": "Shonen / Adventure",
+    "episodes": 500,
+    "tags": [
+      "Pain arc is peak",
+      "War arc payoff",
+      "Skip the fillers"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#cc5500",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "slow",
+    "matchProtagonist": "power",
+    "matchRomance": "light"
+  },
+  {
+    "id": "rurounikenshin",
+    "title": "Rurouni Kenshin",
+    "slug": "rurouni-kenshin",
+    "emoji": "⚔️",
+    "tagline": "A legendary assassin who vowed never to kill again.",
+    "description": "Himura Kenshin was the deadliest swordsman of the revolution and now wanders Japan as a pacifist. The Kyoto arc is one of shonen's finest extended storylines.",
+    "genre": "Historical / Action",
+    "episodes": 94,
+    "tags": [
+      "Pacifist warrior",
+      "Meiji era",
+      "Kyoto arc is peak"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#c04040",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "samuraichamploo",
+    "title": "Samurai Champloo",
+    "slug": "samurai-champloo",
+    "emoji": "🎵",
+    "tagline": "Edo Japan. Hip-hop beats. Three people who should not travel together.",
+    "description": "A wandering girl recruits two very different swordsmen to help find a samurai who smells of sunflowers. Samurai Champloo blends Edo-era Japan with hip-hop aesthetics.",
+    "genre": "Historical / Action",
+    "episodes": 26,
+    "tags": [
+      "Hip-hop aesthetic",
+      "Stylish fights",
+      "Road trip energy"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "hidive"
+    ],
+    "color": "#805040",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "episodic",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "dororo",
+    "title": "Dororo",
+    "slug": "dororo",
+    "emoji": "⚔️",
+    "tagline": "A boy born without limbs, stolen by demons. He wants them back.",
+    "description": "Hyakkimaru was born without 48 body parts, each traded to a demon by his father for power. Now he hunts demons to reclaim his body piece by piece.",
+    "genre": "Historical / Dark Fantasy",
+    "episodes": 24,
+    "tags": [
+      "Emotional depth",
+      "Stunning remake",
+      "Body horror lite"
+    ],
+    "streaming": [
+      "prime",
+      "hidive"
+    ],
+    "color": "#404040",
+    "matchGenre": "action",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "yuyu",
+    "title": "Yu Yu Hakusho",
+    "slug": "yu-yu-hakusho",
+    "emoji": "👻",
+    "tagline": "A delinquent dies saving a child and becomes a spirit detective.",
+    "description": "Yusuke Urameshi dies unexpectedly saving a child and is given a second chance as a Spirit Detective. A classic 90s shonen with excellent character writing.",
+    "genre": "Shonen / Supernatural",
+    "episodes": 112,
+    "tags": [
+      "90s classic",
+      "Spirit world",
+      "Great character arcs"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#408040",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "inuyasha",
+    "title": "Inuyasha",
+    "slug": "inuyasha",
+    "emoji": "💎",
+    "tagline": "A girl falls into feudal Japan and meets a half-demon she should not love.",
+    "description": "Kagome Higurashi falls into a well and emerges in feudal Japan, where she meets the half-demon Inuyasha. A classic long-running adventure-romance.",
+    "genre": "Historical / Romance",
+    "episodes": 167,
+    "tags": [
+      "Classic romance",
+      "Feudal Japan",
+      "Demon battles"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#c0403a",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "assclass",
+    "title": "Assassination Classroom",
+    "slug": "assassination-classroom",
+    "emoji": "🎯",
+    "tagline": "A classroom full of assassins. Their target is their teacher.",
+    "description": "A yellow octopus creature destroys the moon and threatens to destroy Earth — unless Class 3-E can assassinate him first. He is their homeroom teacher.",
+    "genre": "Shonen / Comedy",
+    "episodes": 47,
+    "tags": [
+      "Surprisingly emotional",
+      "Unique premise",
+      "Great finale"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e0c000",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "blackbutler",
+    "title": "Black Butler",
+    "slug": "black-butler",
+    "emoji": "🎩",
+    "tagline": "A boy who sold his soul for vengeance. His demon butler sees it through.",
+    "description": "Young nobleman Ciel Phantomhive made a contract with a demon named Sebastian to avenge his family. Set in Victorian England, Black Butler is gothic, stylish, and darkly funny.",
+    "genre": "Gothic / Mystery",
+    "episodes": 24,
+    "tags": [
+      "Victorian gothic",
+      "Darkly funny",
+      "Stylish"
+    ],
+    "streaming": [
+      "crunchyroll",
+      "netflix"
+    ],
+    "color": "#1a1a1a",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "balanced",
+    "matchProtagonist": "smart",
+    "matchRomance": "none"
+  },
+  {
+    "id": "bsd",
+    "title": "Bungo Stray Dogs",
+    "slug": "bungo-stray-dogs",
+    "emoji": "📖",
+    "tagline": "Detectives with supernatural powers, named after famous authors.",
+    "description": "Atsushi Nakajima discovers the Armed Detective Agency and the dangerous Port Mafia they oppose. BSD is stylish, character-rich, and built around literary references.",
+    "genre": "Supernatural / Action",
+    "episodes": 60,
+    "tags": [
+      "Literary references",
+      "Ensemble cast",
+      "Stylish"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#e06040",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "katanagatari",
+    "title": "Katanagatari",
+    "slug": "katanagatari",
+    "emoji": "🗡️",
+    "tagline": "Twelve swords. Twelve episodes. One hour each. All of it incredible.",
+    "description": "A wandering ninja named Shichika and a strategist named Togame travel Japan collecting 12 ultimate swords. Told in 12 hour-long episodes. Unique format, exceptional payoff.",
+    "genre": "Historical / Action",
+    "episodes": 12,
+    "tags": [
+      "12 hour-long episodes",
+      "Unique format",
+      "Hidden gem"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#d0c0a0",
+    "matchGenre": "action",
+    "matchTone": "edgy",
+    "matchPace": "slow",
+    "matchProtagonist": "power",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "fullmetalpanic",
+    "title": "Full Metal Panic!",
+    "slug": "full-metal-panic",
+    "emoji": "🔫",
+    "tagline": "A soldier assigned to protect a girl at school. He has no idea how school works.",
+    "description": "Sousuke Sagara is a teenage military operative assigned to protect high school girl Kaname Chidori. A perfect blend of mecha thriller and school romantic comedy.",
+    "genre": "Mecha / Romantic Comedy",
+    "episodes": 24,
+    "tags": [
+      "Mecha and comedy",
+      "Fish out of water",
+      "Great duo"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#1a3a1a",
+    "matchGenre": "action",
+    "matchTone": "light",
+    "matchPace": "balanced",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "oshino",
+    "title": "Oshi no Ko",
+    "slug": "oshi-no-ko",
+    "emoji": "⭐",
+    "tagline": "The entertainment industry is not what it looks like. Neither is this show.",
+    "description": "A doctor is reincarnated as the child of his favorite idol and grows up in the entertainment industry with full memories of his past life. A devastating examination of idol culture.",
+    "genre": "Drama / Mystery",
+    "episodes": 11,
+    "tags": [
+      "Subversive premiere",
+      "Idol industry",
+      "Emotional gut-punch"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#303060",
+    "matchGenre": "mystery",
+    "matchTone": "dark",
+    "matchPace": "fast",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "dunmeshi",
+    "title": "Dungeon Meshi",
+    "slug": "dungeon-meshi",
+    "emoji": "🍲",
+    "tagline": "A party of adventurers who eat what they kill. Including dragons.",
+    "description": "Laios and his party delve into a dungeon to rescue his sister, cooking and eating the monsters they defeat along the way. Dungeon Meshi is a love letter to fantasy world-building, cooking, and found family. 2024's best anime.",
+    "genre": "Fantasy / Adventure",
+    "episodes": 24,
+    "tags": [
+      "Food and dungeon crawling",
+      "Incredible world-building",
+      "Found family"
+    ],
+    "streaming": [
+      "netflix"
+    ],
+    "color": "#c0803a",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "balanced",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "light"
+  },
+  {
+    "id": "apothecary",
+    "title": "The Apothecary Diaries",
+    "slug": "the-apothecary-diaries",
+    "emoji": "🧪",
+    "tagline": "A pharmacist's apprentice solves court mysteries with her nose.",
+    "description": "Maomao is a pharmacist's daughter sold into the imperial court as a servant. Her knowledge of medicine and poisons quickly draws her into court intrigue and mystery.",
+    "genre": "Mystery / Historical",
+    "episodes": 24,
+    "tags": [
+      "Historical mystery",
+      "Smart heroine",
+      "Court intrigue"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#c0a080",
+    "matchGenre": "mystery",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "skipandloafer",
+    "title": "Skip and Loafer",
+    "slug": "skip-and-loafer",
+    "emoji": "🌸",
+    "tagline": "A country girl arrives in Tokyo with big dreams and zero social calibration.",
+    "description": "Mitsumi Iwakura moves to Tokyo for high school with extremely specific life goals and almost no social awareness. Skip and Loafer is the warmest, most human romance of recent years.",
+    "genre": "Romance / Slice of Life",
+    "episodes": 12,
+    "tags": [
+      "Warm romance",
+      "Optimistic protagonist",
+      "Healing watch"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#90c0a0",
+    "matchGenre": "cozy",
+    "matchTone": "hopeful",
+    "matchPace": "episodic",
+    "matchProtagonist": "ordinary",
+    "matchRomance": "heavy"
+  },
+  {
+    "id": "kaijuno8",
+    "title": "Kaiju No. 8",
+    "slug": "kaiju-no-8",
+    "emoji": "👾",
+    "tagline": "A man who has been failing to become a hero his entire life finally gets his chance.",
+    "description": "Kafka Hibino has spent years cleaning up after kaiju attacks while his childhood friend rose through the ranks. Then a small kaiju crawls into his mouth and turns him into one.",
+    "genre": "Action / Sci-fi",
+    "episodes": 12,
+    "tags": [
+      "Underdog adult protagonist",
+      "Kaiju action",
+      "Recent hit"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#2a4a6a",
+    "matchGenre": "action",
+    "matchTone": "hopeful",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "light"
+  },
+  {
+    "id": "hyouka",
+    "title": "Hyouka",
+    "slug": "hyouka",
+    "emoji": "🌸",
+    "tagline": "A lazy genius who avoids wasting energy solves mysteries he does not want to solve.",
+    "description": "Hotaro Oreki joins the Classics Club and meets Chitanda Eru — a girl whose boundless curiosity drags him into solving school mysteries. Hyouka is a beautiful slow burn.",
+    "genre": "Mystery / Romance",
+    "episodes": 22,
+    "tags": [
+      "Mystery and romance",
+      "Gorgeous KyoAni",
+      "Slow burn"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#90a080",
+    "matchGenre": "mystery",
+    "matchTone": "hopeful",
+    "matchPace": "slow",
+    "matchProtagonist": "smart",
+    "matchRomance": "light"
+  },
+  {
+    "id": "zom100",
+    "title": "Zom 100",
+    "slug": "zom-100",
+    "emoji": "🧟",
+    "tagline": "The zombie apocalypse is the best thing that ever happened to him.",
+    "description": "Akira Tendo has been crushed by corporate overwork for years. When zombies appear, he realizes he is finally free. Zom 100 is a comedy about liberation wrapped in a zombie apocalypse.",
+    "genre": "Comedy / Action",
+    "episodes": 12,
+    "tags": [
+      "Anti-overwork",
+      "Zombie comedy",
+      "Life-affirming"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#60a040",
+    "matchGenre": "cozy",
+    "matchTone": "light",
+    "matchPace": "fast",
+    "matchProtagonist": "broken",
+    "matchRomance": "none"
+  },
+  {
+    "id": "sakurasou",
+    "title": "Sakurasou no Pet na Kanojo",
+    "slug": "sakurasou",
+    "emoji": "🎨",
+    "tagline": "A dorm full of geniuses. One very normal person. A lot of feelings about talent.",
+    "description": "Sorata Kanda moves to a special dorm full of creative geniuses and meets Shiina Mashiro — a brilliant artist with zero life skills. Sakurasou is a romance and a meditation on talent, effort, and self-worth.",
+    "genre": "Romance / Drama",
+    "episodes": 24,
+    "tags": [
+      "Talent vs effort",
+      "Emotional romance",
+      "Found family dorm"
+    ],
+    "streaming": [
+      "crunchyroll"
+    ],
+    "color": "#d06090",
+    "matchGenre": "emotional",
+    "matchTone": "edgy",
+    "matchPace": "balanced",
+    "matchProtagonist": "broken",
+    "matchRomance": "heavy"
+  }
+]
