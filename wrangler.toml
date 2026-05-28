@@ -2,13 +2,12 @@ name = "animeforthat"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 
-# After running: wrangler kv namespace create QUIZ_COUNTER
-# paste the resulting id below
+pages_build_output_dir = ".vercel/output/static"
+
 [[kv_namespaces]]
 binding = "QUIZ_COUNTER"
 id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
 
 [vars]
 NEXT_PUBLIC_SITE_URL = "https://animeforthat.com"
-# Add your ConvertKit form ID here once you create your account
 NEXT_PUBLIC_CONVERTKIT_FORM_ID = "PASTE_CONVERTKIT_FORM_ID_HERE"
