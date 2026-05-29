@@ -4,9 +4,6 @@ compatibility_flags = ["nodejs_compat"]
 
 pages_build_output_dir = ".vercel/output/static"
 
-[build]
-command = "npm install --legacy-peer-deps && npx @cloudflare/next-on-pages"
-
 [[kv_namespaces]]
 binding = "QUIZ_COUNTER"
 id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
